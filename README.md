@@ -1,4 +1,4 @@
-# Research on lung segmentation for COVID19 patients in CXR
+# Research on carina and left hilum detection for COVID19 patients in CXR
 This source code is for sharing deep learning-based detection model for carina and left hilium in CXR. It has been validated for COVID19 patients as well.
 
 [Lung segmentation](https://github.com/younggon2/Research-Segmentation-Lung-CXR-COVID19) in CXR is followed by this detection model for dividing the whole lung into four regions.
@@ -19,3 +19,4 @@ This source code is for sharing deep learning-based detection model for carina a
 
 1. https://github.com/qubvel/segmentation_models
 2. https://github.com/fizyr/keras-retinanet
+3. https://github.com/younggon2/Research-Segmentation-Lung-CXR-COVID19
