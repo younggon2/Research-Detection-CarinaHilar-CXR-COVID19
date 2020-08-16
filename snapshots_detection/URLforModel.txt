@@ -1,0 +1,5 @@
+The trained model for detection of carina and left hilium can be downloaded below:
+
+https://github.com/younggon2/Research-Segmentation-Lung-CXR-COVID19/tree/master/snapshots_detection
+
+The trained model: "resnet50_csv_02_converted.h5"
